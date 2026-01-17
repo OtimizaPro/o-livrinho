@@ -1,0 +1,79 @@
+name: "Proposta de Capítulo/Artigo"
+description: "Propor novo capítulo ou artigo para O Livrinho"
+title: "[ARTIGO] "
+labels: ["article-proposal", "awaiting-review"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Título Proposto
+    validations:
+      required: true
+
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Resumo
+      description: Resumo do conteúdo (200-300 palavras)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Categoria Principal
+      options:
+        - Escatologia
+        - Exegese
+        - Apocalipse/Revelação
+        - História Bíblica
+        - Tradução e Linguística
+        - Teologia Sistemática
+    validations:
+      required: true
+
+  - type: textarea
+    id: biblical-references
+    attributes:
+      label: Referências Bíblicas Principais
+      description: Passagens que serão analisadas
+      placeholder: |
+        - Apocalipse 13:1-18
+        - Daniel 7:1-28
+    validations:
+      required: true
+
+  - type: dropdown
+    id: timeline-perspective
+    attributes:
+      label: Perspectiva Temporal Escatológica
+      description: Como este artigo interpreta os eventos?
+      options:
+        - Já ocorreu (Passado)
+        - Está ocorrendo (Presente)
+        - Ocorrerá (Futuro)
+        - Múltiplas perspectivas (Análise comparativa)
+    validations:
+      required: true
+
+  - type: textarea
+    id: methodology
+    attributes:
+      label: Metodologia Exegética
+      description: Como você abordará o texto? (literal, histórico-gramatical, etc.)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Alinhamento com Princípios de Tradução
+      options:
+        - label: Usa Bíblia Belem An.C 2025 como fonte primária
+          required: true
+        - label: Mantém prioridade de interpretação literal
+          required: true
+        - label: Distingue entre tradução e interpretação
+          required: true
+        - label: Livre de viés de escola teológica atual
+          required: true
