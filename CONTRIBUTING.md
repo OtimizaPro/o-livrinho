@@ -8,7 +8,7 @@ Obrigado pelo interesse em contribuir!
 
 ### Sobre o Conteudo do Livro
 
-O conteudo do livro e de autoria exclusiva de Anderson Costa Belem.
+O conteudo do livro e de autoria exclusiva de Belem, Costa Anderson.
 
 **Voce pode:**
 - Fazer perguntas sobre o conteudo
@@ -94,4 +94,4 @@ npm run format
 
 ---
 
-**Copyright 2025 Anderson Costa Belem**
+**Copyright 2025 Belem, Costa Anderson**

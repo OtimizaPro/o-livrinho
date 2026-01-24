@@ -13,7 +13,7 @@
 
 **Principio fundamental:** O Livro da Revelacao e a chave para compreender toda a Escritura.
 
-**Autor:** Anderson Costa Belem
+**Autor:** Belem, Costa Anderson
 
 ---
 
@@ -91,9 +91,9 @@ o-livrinho/
 
 ## Licenca
 
-Copyright 2025 Anderson Costa Belem
+Copyright 2025 Belem, Costa Anderson
 
-Disponivel para leitura gratuita.
+Disponivel para leitura gratuita. [Ver termos completos](https://aculpaedasovelhas.org/licenca.html)
 
 ---
 

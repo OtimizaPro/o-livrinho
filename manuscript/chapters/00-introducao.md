@@ -1,6 +1,6 @@
 ---
 title: "Introdução"
-author: "Anderson Costa Belem"
+author: "Belem, Costa Anderson"
 edition: "666"
 updated: "Janeiro de 2026"
 ---

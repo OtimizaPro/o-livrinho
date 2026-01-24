@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "O Livrinho - A Culpa é das Ovelhas - Obra Literária Inspirada",
   "type": "module",
-  "author": "Anderson Costa Belem",
+  "author": "Belem, Costa Anderson",
   "license": "UNLICENSED",
   "scripts": {
     "lint": "eslint .",
