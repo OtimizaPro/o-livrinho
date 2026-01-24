@@ -1,83 +1,104 @@
-# O Livrinho: A Culpa é das Ovelhas
+# O Livrinho: A Culpa e das Ovelhas
 
-> Livro colaborativo sobre escatologia bíblica baseada na tradução Belem An.C 2025
+> Livro colaborativo sobre escatologia biblica baseada na traducao Belem An.C 2025
+
+[![Ler Online](https://img.shields.io/badge/Ler-Online-blue?style=for-the-badge)](https://aculpaedasovelhas.org/livrinho.html)
+[![Discussions](https://img.shields.io/badge/Participar-Discussions-purple?style=for-the-badge)](https://github.com/OtimizaPro/o-livrinho/discussions)
+
+---
 
 ## Sobre
 
-"O Livrinho" é um projeto colaborativo de escatologia bíblica que busca identificar através do próprio texto bíblico - traduzido literalmente - o que já ocorreu, o que está ocorrendo e o que ainda ocorrerá.
+"O Livrinho" e uma obra de escatologia biblica que busca identificar atraves do proprio texto biblico - traduzido literalmente - o que ja ocorreu, o que esta ocorrendo e o que ainda ocorrera.
 
-**Princípio fundamental:** O Livro da Revelação é a chave para compreender toda a Escritura.
+**Principio fundamental:** O Livro da Revelacao e a chave para compreender toda a Escritura.
 
-## Edições
+**Autor:** Anderson Costa Belem
 
-### 666: A Besta Exposta
-Análise literal e histórica do número da besta e sua identificação.
+---
 
-### O Anticristo Revelado
-Estudo exegético sobre as menções ao anticristo nas epístolas joaninas.
+## Leitura Online
 
-## Estrutura
+**[Comecar a Ler](https://aculpaedasovelhas.org/livrinho.html)**
+
+### Capitulos
+
+| # | Titulo |
+| - | ------ |
+| 0 | [Introducao](manuscript/chapters/00-introducao.md) |
+| 1 | [A Natureza Expositiva da Revelacao](manuscript/chapters/01-natureza-expositiva-revelacao.md) |
+| 2 | [A Identidade de Jesus vs YHWH](manuscript/chapters/02-identidade-jesus-vs-yhwh.md) |
+| 3 | [O Engano Religioso Global](manuscript/chapters/03-engano-religioso-global.md) |
+| 4 | [As Bestas de Apocalipse 13](manuscript/chapters/04-bestas-apocalipse-13.md) |
+| 5 | [A Imagem e a Marca da Besta](manuscript/chapters/05-imagem-marca-besta.md) |
+| 6 | [O Falso Profeta](manuscript/chapters/06-falso-profeta.md) |
+| 7 | [Jesus como Deus Universal](manuscript/chapters/07-jesus-deus-universal.md) |
+| 8 | [A Revelacao como Exposicao](manuscript/chapters/08-revelacao-exposicao.md) |
+| 9 | [Conclusao](manuscript/chapters/09-conclusao.md) |
+
+**Apendice:** [Easter Eggs no Antigo Testamento](manuscript/appendices/easter-eggs-at.md)
+
+---
+
+## Edicoes em Desenvolvimento
+
+- **666: A Besta Exposta** - Analise literal do numero da besta
+- **O Anticristo Revelado** - Estudo exegetico das epistolas joaninas
+
+---
+
+## Participar
+
+### Perguntas e Sugestoes
+
+Tem uma pergunta sobre o conteudo? Quer sugerir algo?
+
+- [Abrir uma Discussion](https://github.com/OtimizaPro/o-livrinho/discussions/new)
+- [Reportar erro](https://github.com/OtimizaPro/o-livrinho/issues/new)
+
+### Contribuicoes Tecnicas
+
+Quer contribuir com o sistema leitor (interface, acessibilidade, ferramentas)?
+
+Veja o [Guia de Contribuicao](CONTRIBUTING.md)
+
+---
+
+## Principios Editoriais
+
+1. **So a Escritura** - Base exclusiva no texto biblico
+2. **Traducao Literal** - Usar Biblia Belem An.C 2025
+3. **Sem Denominacao** - Livre de doutrinas denominacionais
+4. **Cronologia Biblica** - Respeitar a linha do tempo das Escrituras
+5. **Revelacao como Chave** - O Apocalipse ilumina todo o canon
+
+---
+
+## Estrutura do Repositorio
 
 ```
 o-livrinho/
 ├── manuscript/
-│   ├── chapters/
-│   │   ├── 00-introducao.md
-│   │   ├── 01-a-revelacao.md
-│   │   ├── 02-os-sete-selos.md
-│   │   └── ...
-│   └── appendices/
-├── editions/
-│   ├── 666-a-besta-exposta/
-│   └── o-anticristo-revelado/
-├── assets/
-│   ├── covers/
-│   └── illustrations/
-└── CONTRIBUTING.md
+│   ├── chapters/       # Capitulos do livro
+│   └── appendices/     # Apendices
+├── editions/           # Edicoes especiais
+├── assets/             # Imagens e recursos
+├── CONTRIBUTING.md     # Guia de contribuicao
+└── README.md
 ```
-
-## Como Contribuir
-
-### Propor Capítulo
-
-1. Abra uma **Issue** com o template "Chapter Proposal"
-2. Inclua:
-   - Título do capítulo
-   - Resumo (200 palavras)
-   - Referências bíblicas principais
-   - Perspectiva temporal (passado/presente/futuro)
-
-### Submeter Conteúdo
-
-1. Fork este repositório
-2. Crie branch: `chapter/nome-do-capitulo`
-3. Escreva em Markdown seguindo o template
-4. Submeta PR com justificativa bíblica
-
-### Revisão
-
-- Todo conteúdo passa por revisão exegética
-- Deve usar apenas a tradução Belem An.C como fonte
-- Livre de viés denominacional
-
-## Princípios Editoriais
-
-1. **Só a Escritura** - Base exclusiva no texto bíblico
-2. **Tradução Literal** - Usar Bíblia Belem An.C 2025
-3. **Sem Denominação** - Livre de doutrinas denominacionais
-4. **Cronologia Bíblica** - Respeitar a linha do tempo das Escrituras
-5. **Revelação como Chave** - O Apocalipse ilumina todo o cânon
-
-## Leitura Online
-
-[Ler O Livrinho](https://aculpaedasovelhas.org/livrinho.html)
-
-## Licença
-
-Copyright 2025 Anderson Costa Belem
-
-Disponível para leitura gratuita. Contribuições mantêm direitos do autor original.
 
 ---
 
-**Ecossistema A Culpa é das Ovelhas** | [Site](https://aculpaedasovelhas.org) | [Bíblia](https://biblia.aculpaedasovelhas.org)
+## Licenca
+
+Copyright 2025 Anderson Costa Belem
+
+Disponivel para leitura gratuita.
+
+---
+
+**Ecossistema A Culpa e das Ovelhas**
+
+[Site](https://aculpaedasovelhas.org) | [Biblia](https://biblia.aculpaedasovelhas.org) | [Discussions](https://github.com/OtimizaPro/o-livrinho/discussions)
+
+*"Voce le. E a interpretacao e sua."*
