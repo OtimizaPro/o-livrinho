@@ -101,4 +101,4 @@ Disponivel para leitura gratuita. [Ver termos completos](https://aculpaedasovelh
 
 [Site](https://aculpaedasovelhas.org) | [Biblia](https://biblia.aculpaedasovelhas.org) | [Discussions](https://github.com/OtimizaPro/o-livrinho/discussions)
 
-*"Voce le. E a interpretacao e sua."*
+*"O Livrinho — A Culpa e das Ovelhas". Edicao 666. False doors, real keys, and naked beasts.*
